@@ -6,7 +6,7 @@
 
 ## Install
 
-First you need Node. To install gulp and all necessary plugins, run:
+First you need [Node](https://nodejs.org/en/download/package-manager). To install gulp and all necessary plugins, run:
 
 ```
 $ npm install
